@@ -3,3 +3,5 @@ Something is here
 git checkdoutfsdfsdf
 
 My changes from server
+
+to test fetch. What is it doing usually?
